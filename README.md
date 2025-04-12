@@ -6,6 +6,6 @@ I'm a delusional FNF coder that... is a very interesting specimen to say the lea
 
 I work on the following:
 - [Analog Funkin'](https://x.com/analogfunkinfnf)
-- [Friday Night Purgin'](https://gamebanana.com/mods/543898)
-- [VS Evil and F*cked up Bocchi](https://gamebanana.com/mods/556103), etc.
+- Friday Night Purgin'
+- Club M
 ###
